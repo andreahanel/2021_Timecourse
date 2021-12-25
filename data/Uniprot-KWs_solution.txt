@@ -1,0 +1,414 @@
+	new_row	search term	biochemistry	function
+100	Antibiotic	Antibiotic	antimicrobial protein	
+101	Antimicrobial	Antimicrobial	antimicrobial protein	
+188	Fungicide		antimicrobial protein	
+237	Antiviral defense		antimicrobial protein	
+177	Antioxidant		antioxidant	
+59	Cell adhesion	Cell adhesion	cell adhesion protein	
+198	Integrin		cell adhesion protein	
+147	Chloride channel	channel	channel	
+148	Ion channel	channel	channel	
+260	Ligand-gated ion channel	channel	channel	
+268	Voltage-gated channel	channel	channel	
+376	Potassium channel	channel	channel	
+395	Calcium channel	channel	channel	
+396	Sodium channel	channel	channel	
+64	Chaperone	x	chaperone	
+70	Chromatin regulator	Chromatin regulator	chromatin regulator	
+256	Collagen		collagen	
+124	Cytokine	Cytokine	cytokine	
+324	Elongation factor		elongation factor	
+39	Acyltransferase	ase	enzyme	
+45	Hydrolase	ase	enzyme	
+47	Protease	ase	enzyme	
+50	Transferase	ase	enzyme	
+102	Endonuclease	ase	enzyme	
+103	Nuclease	ase	enzyme	
+107	Kinase	ase	enzyme	
+116	Glycosyltransferase	ase	enzyme	
+145	Isomerase	ase	enzyme	
+155	Oxidoreductase	ase	enzyme	
+163	Serine protease	ase	enzyme	
+164	Protein phosphatase	ase	enzyme	
+169	Serine/threonine-protein kinase	ase	enzyme	
+200	Glycosidase	ase	enzyme	
+202	Metalloprotease	ase	enzyme	
+210	Tyrosine-protein kinase	ase	enzyme	
+226	Rotamase	ase	enzyme	
+229	Dioxygenase	ase	enzyme	
+232	Peroxidase	ase	enzyme	
+239	Nucleotidyltransferase	ase	enzyme	
+248	Translocase	ase	enzyme	
+275	Lyase	ase	enzyme	
+276	Ligase	ase	enzyme	
+285	Aminotransferase	ase	enzyme	
+306	Monooxygenase	ase	enzyme	
+307	Thiol protease	ase	enzyme	
+310	Aminopeptidase	ase	enzyme	
+311	Carboxypeptidase	ase	enzyme	
+359	Serine esterase	ase	enzyme	
+390	Helicase	ase	enzyme	
+392	Methyltransferase	ase	enzyme	
+238	Multifunctional enzyme		enzyme	
+252	Allosteric enzyme		enzyme	
+81	Metalloenzyme inhibitor		enzyme activity modulator	
+82	Metalloprotease inhibitor	ase	enzyme activity modulator	
+83	Protease inhibitor	ase	enzyme activity modulator	
+129	GTPase activation	ase	enzyme activity modulator	
+181	Serine protease inhibitor	ase	enzyme activity modulator	
+235	Protein phosphatase inhibitor	ase	enzyme activity modulator	
+320	Protein kinase inhibitor	ase	enzyme activity modulator	
+365	Thiol protease inhibitor	ase	enzyme activity modulator	
+80	Growth factor	Growth factor	growth factor	
+125	Growth regulation		growth regulator	
+341	Hormone		hormone	
+126	Mitogen		mitogen	
+87	Proto-oncogene	Proto-oncogene	proto-oncogene	
+26	Receptor	Receptor	receptor	
+299	MHC II		receptor (MHC II) 	
+28	Transcription regulation	Transcription regulation	transcription regulator	
+243	Translation regulation		translation regulator	
+222	Antiport		transporter	
+78	Symport	Symport	transporter	
+52	Ion transport	transport	transporter	
+54	Iron transport	transport	transporter	
+56	Transport	transport	transporter	
+66	Protein transport	transport	transporter	
+77	Sodium transport	transport	transporter	
+99	Zinc transport	transport	transporter	
+144	Hydrogen ion transport	transport	transporter	
+194	Sugar transport	transport	transporter	
+223	Calcium transport	transport	transporter	
+227	Lipid transport	transport	transporter	
+255	Amino-acid transport	transport	transporter	
+262	Electron transport	transport	transporter	
+266	Potassium transport	transport	transporter	
+318	Sodium/potassium transport	transport	transporter	
+335	Copper transport	transport	transporter	
+128	Tumor suppressor		tumor suppressor	
+96	Adaptive immunity	Adaptive immunity		(immunity-adaptive)
+241	Schiff base	ase		
+343	Acute phase	ase	acute-phase protein	
+2	Actin-binding	binding		
+14	Metal-binding	binding		
+22	DNA-binding	binding	DNA-binding protein	
+44	GTP-binding	binding		
+46	Nucleotide-binding	binding		
+57	Lipid-binding	binding		
+75	ATP-binding	binding		
+104	Calmodulin-binding	binding		
+179	RNA-binding	binding		
+204	Heparin-binding	binding		
+215	Folate-binding	binding		
+270	cAMP-binding	binding		
+271	SH3-binding	binding		
+338	Calcium/phospholipid-binding	binding		
+353	Growth factor binding	binding		
+367	IgG-binding protein	binding		
+370	IgA-binding protein	binding		
+112	Lipid biosynthesis	biosynthesis		(metabolism)
+114	Phospholipid biosynthesis	biosynthesis		(metabolism)
+117	Cholesterol biosynthesis	biosynthesis		(metabolism)
+119	Steroid biosynthesis	biosynthesis		(metabolism)
+121	Sterol biosynthesis	biosynthesis		(metabolism)
+230	Fatty acid biosynthesis	biosynthesis		(metabolism)
+233	Prostaglandin biosynthesis	biosynthesis		(metabolism)
+284	Amino-acid biosynthesis	biosynthesis		(metabolism)
+286	Branched-chain amino acid biosynthesis	biosynthesis		(metabolism)
+293	GMP biosynthesis	biosynthesis		(metabolism)
+295	Purine biosynthesis	biosynthesis		(metabolism)
+300	Glutathione biosynthesis	biosynthesis		(metabolism)
+325	Protein biosynthesis	biosynthesis		(metabolism)
+356	Isoprene biosynthesis	biosynthesis		(metabolism)
+358	Ubiquinone biosynthesis	biosynthesis		(metabolism)
+371	Leukotriene biosynthesis	biosynthesis		(metabolism)
+408	Pyridine nucleotide biosynthesis	biosynthesis		(metabolism)
+217	Basement membrane	cc		
+15	Microtubule	cc		
+16	Nucleus	cc		
+25	Mitochondrion	cc		
+30	Cell membrane	cc		
+34	Membrane	cc		
+37	Transmembrane	cc		
+38	Transmembrane helix	cc		
+43	Extracellular matrix	cc		
+63	Complement alternate pathway	Complement alternate pathway		
+136	Lipid degradation	degradation		(metabolism)
+137	Phospholipid degradation	degradation		(metabolism)
+201	Collagen degradation	degradation		(metabolism)
+369	Cilium biogenesis/degradation	degradation		(metabolism)
+86	Differentiation	Differentiation		(differentiation)
+10	Disease variant	disease		
+91	Charcot-Marie-Tooth disease	disease		
+185	Primary mitochondrial disease	disease		
+373	Glycogen storage disease	disease		
+377	Hirschsprung disease	disease		
+378	Chronic granulomatous disease	disease		
+60	Host cell receptor for virus entry	Host cell receptor for virus entry	receptor	
+23	Host-virus interaction	Host-virus interaction		
+11	Immunity	Immunity		(immunity)
+12	Inflammatory response	Inflammatory response		(inflammatory response)
+13	Innate immunity	Innate immunity		(immunity-innate)
+113	Lipid metabolism	metabolism		(metabolism)
+115	Phospholipid metabolism	metabolism		(metabolism)
+118	Cholesterol metabolism	metabolism		(metabolism)
+120	Steroid metabolism	metabolism		(metabolism)
+122	Sterol metabolism	metabolism		(metabolism)
+231	Fatty acid metabolism	metabolism		(metabolism)
+234	Prostaglandin metabolism	metabolism		(metabolism)
+322	Nucleotide metabolism	metabolism		(metabolism)
+344	Carbohydrate metabolism	metabolism		(metabolism)
+383	Glucose metabolism	metabolism		(metabolism)
+36	Signal	x		
+27	Transcription	Transcription		
+90	Transducer	Transducer		
+1	3D-structure	x		
+3	Alternative splicing	x		
+4	Amyloidosis	x		
+5	Cell projection	x		
+6	Coiled coil	x		
+7	Cytoplasm	x		
+8	Cytoplasmic vesicle	x		
+9	Cytoskeleton	x		
+17	Phosphoprotein	x		
+18	Reference proteome	x		
+19	Zinc	x		
+20	Zinc-finger	x		
+21	Acetylation	x		
+24	Isopeptide bond	x		
+29	Ubl conjugation	x		
+31	Disulfide bond	x		
+32	Glycoprotein	x		
+33	Immunoglobulin domain	x		
+35	Repeat	x		
+40	Calcium	x		
+41	Chromosome	x		
+42	Direct protein sequencing	x		
+48	S-nitrosylation	x		
+49	Secreted	x		
+51	GPI-anchor	x		
+53	Iron	x		
+55	Lipoprotein	x		
+58	SH3 domain	x		
+61	Repressor	x		
+62	Ubl conjugation pathway	x		(Ubl conjugation pathway)
+65	Endoplasmic reticulum	x		
+67	Methylation	x		
+68	Palmitate	x		
+69	Prenylation	x		
+71	Neurogenesis	x		
+72	EGF-like domain	x		
+73	Laminin EGF-like domain	x		
+74	Mitochondrion inner membrane	x		
+76	Sodium	x		
+79	TPR repeat	x		
+84	Chromosomal rearrangement	x		
+85	Developmental protein	x		
+88	Endosome	x		
+89	G-protein coupled receptor	x		
+92	Deafness	x		
+93	Dejerine-Sottas syndrome	x		
+94	Neurodegeneration	x		
+95	Neuropathy	x		
+97	Congenital disorder of glycosylation	x		
+98	Lysosome	x		
+105	Cell junction	x		
+106	Coated pit	x		
+108	Synapse	x		
+109	Golgi apparatus	x		
+110	Signal-anchor	x		
+111	Leucine-rich repeat	x		
+123	Cleavage on pair of basic residues	x		
+131	Cone-rod dystrophy	x		
+132	Retinitis pigmentosa	x		
+134	HDL	x		
+135	LDL	x		
+138	LIM domain	x		
+139	Synaptosome	x		
+140	Cell shape	x		
+141	Sialic acid	x		
+142	Lectin	x		
+143	Ichthyosis	x		
+146	Chloride	x		
+150	Copper	x		
+151	FAD	x		
+152	Flavoprotein	x		
+153	Heme	x		
+154	NADP	x		
+156	Activator	x		
+157	Endocytosis	x		
+158	Dwarfism	x		
+159	Osteogenesis imperfecta	x		
+160	Pyrrolidone carboxylic acid	x		
+161	Ribonucleoprotein	x		
+162	Hypotrichosis	x		
+165	ANK repeat	x		
+167	Kelch repeat	x		
+170	Autophagy	x		
+379	Cilium	x		
+380	Flagellum	x		
+381	Muscle protein	x		
+382	Thick filament	x		
+384	Glaucoma	x		
+385	Gluconeogenesis	x		(metabolism)
+386	LTQ	x		
+387	Stickler syndrome	x		
+388	TPQ	x		
+391	Amelogenesis imperfecta	x		
+393	S-adenosyl-L-methionine	x		
+394	Progressive external ophthalmoplegia	x		
+397	Thiamine pyrophosphate	x		
+398	Olfaction	x		
+399	Ehlers-Danlos syndrome	x		
+400	Vitamin C	x		
+401	Albinism	x		
+402	Intrahepatic cholestasis	x		
+403	Congenital adrenal hyperplasia	x		
+404	Craniosynostosis	x		
+405	FMN	x		
+406	Biotin	x		
+407	Pyruvate	x		
+409	Congenital muscular dystrophy	x		
+410	Emery-Dreifuss muscular dystrophy	x		
+411	Intermediate filament	x		
+412	Hemolytic uremic syndrome	x		
+413	Thrombophilia	x		
+172	Fertilization	x		
+173	Epilepsy	x		
+174	Motor protein	x	motor protein	
+175	Myosin	x		
+176	Signal transduction inhibitor	x		
+178	Palmoplantar keratoderma	x		
+180	Plasminogen activation	x		
+182	Alternative promoter usage	x		
+183	Cardiomyopathy	x		
+184	Leigh syndrome	x		
+186	Transit peptide	x		
+187	Non-syndromic deafness	x		
+192	Tight junction	x		
+193	Lipid droplet	x		
+195	ADP-ribosylation	x		
+196	Citrullination	x		
+197	RNA editing	x		
+199	Phagocytosis	x		
+203	Zymogen	x		
+205	Guanine-nucleotide releasing factor	x		
+206	Alternative initiation	x		
+207	Exocytosis	x		
+208	Myristate	x		
+209	SH2 domain	x		
+211	Microsome	x		
+212	Mitochondrion outer membrane	x		
+213	Nitration	x		
+214	NAD	x		
+216	Postsynaptic cell membrane	x		
+218	Sulfation	x		
+219	Chylomicron	x		
+220	Hyperlipidemia	x		
+221	VLDL	x		
+224	Diabetes mellitus	x		
+225	Necrosis	x		(necrosis)
+228	Proteoglycan	x		
+236	Amyloid	x		
+244	Ciliopathy	x		
+245	Primary ciliary dyskinesia	x		
+246	Redox-active center	x		
+247	Spermatogenesis	x		
+250	Magnesium	x		
+251	Manganese	x		
+253	Cytolysis	x		
+254	Mental retardation	x		
+257	Sarcoplasmic reticulum	x		
+258	mRNA processing	x		
+259	mRNA splicing	x		
+261	Allergen	x		
+263	Atrial fibrillation	x		
+264	Long QT syndrome	x		
+265	Potassium	x		
+267	Short QT syndrome	x		
+269	cAMP	x		
+272	Primary microcephaly	x		
+273	WD repeat	x		
+274	Homeobox	x		
+277	Selenium	x		
+278	Selenocysteine	x		
+279	Osteogenesis	x		
+280	Biomineralization	x		
+281	Heparan sulfate	x		
+282	Anion exchange	x	transporter	
+283	Hereditary spastic paraplegia	x		
+287	Pyridoxal phosphate	x		
+288	Limb-girdle muscular dystrophy	x		
+289	Schizophrenia	x		
+290	Autocatalytic cleavage	x		
+291	Systemic lupus erythematosus	x		
+292	CBS domain	x		
+294	Leber congenital amaurosis	x		
+296	Age-related macular degeneration	x		
+298	Sushi	x		
+301	Hereditary hemolytic anemia	x		
+303	Spinocerebellar ataxia	x		
+304	Epidermolysis bullosa	x		
+305	Hydroxylation	x		
+308	Cataract	x		
+309	Hyaluronic acid	x		
+312	Centromere	x		
+313	DNA synthesis	x		(DNA synthesis)
+314	Kinetochore	x		
+315	Myogenesis	x		
+316	Biological rhythms	x		
+317	Glutathionylation	x		
+319	Congenital myasthenic syndrome	x		
+321	Atherosclerosis	x		
+323	SCID	x		
+326	Ribosome biogenesis	x		
+327	Hypogonadotropic hypogonadism	x		
+328	Kallmann syndrome	x		
+329	Obesity	x		
+330	Bait region	x		
+331	Thioester bond	x		
+332	Pharmaceutical	x		
+333	Chondrogenesis	x		
+334	Osteopetrosis	x		
+336	Peroxisome	x		
+337	Annexin	x		
+339	Williams-Beuren syndrome	x		
+340	Amidation	x		
+342	Actin capping	x		
+345	Glyoxylate bypass	x		
+348	Detoxification	x		
+350	Pyrogen	x		
+351	Dystonia	x		
+352	Oxidation	x		
+357	Parkinsonism	x		
+360	Iron storage	x		
+361	Corneal dystrophy	x		
+362	Gamma-carboxyglutamic acid	x		
+363	Sensory transduction	x		
+364	Vision	x		
+366	Chromosome partition	x		
+368	Congenital erythrocytosis	x		
+374	Gastrulation	x		
+375	Neuronal ceroid lipofuscinosis	x		
+127	Cell cycle			(cell cycle)
+130	Angiogenesis			(angiogenesis)
+133	Asthma			
+149	Apoptosis			(apoptosis)
+166	Cell division			(cell division)
+168	DNA damage			(DNA damage)
+171	Chemotaxis			(chemotaxis)
+189	Blood coagulation			(blood coagulation)
+190	Hemostasis			(hemostasis)
+191	Mitosis			(mitosis)
+240	Pentose shunt			(metabolism)
+242	Notch signaling pathway			(Notch signaling pathway)
+249	Wnt signaling pathway			(Wnt signaling pathway)
+297	Complement pathway			(complement pathway)
+302	Glycolysis			(metabolism)
+346	Tricarboxylic acid cycle			(metabolism)
+347	Aromatic hydrocarbons catabolism			(metabolism)
+349	Stress response			(stress response)
+354	DNA repair			(DNA repair)
+355	Unfolded protein response			(unfolded protein response)
+372	B-cell activation			(B-cell activation)
+389	Inflammasome			(inflammasome)
